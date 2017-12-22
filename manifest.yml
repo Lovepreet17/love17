@@ -1,6 +1,4 @@
----
 applications:
-- name: cf-nodejs
-  memory: 256M
-  instances: 1
-  random-route: true
+- name: node-hello-world
+  memory: 128M
+  buildpack: sdk-for-nodejs
