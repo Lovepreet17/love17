@@ -1,0 +1,22 @@
+{
+  "name": "love17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lovepreet17/love17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lovepreet17/love17/issues"
+  },
+  "homepage": "https://github.com/Lovepreet17/love17#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
